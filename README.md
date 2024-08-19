@@ -70,6 +70,18 @@ http://localhost:8080
 ```
 ___
 
+## Padrões ✔️
+
+[Patterns](https://github.com/lucasheverton/Calculator/blob/master/docs/PATTERNS.md)
+
+___
+
+## Referências 📝
+
+[References](https://github.com/lucasheverton/Calculator/blob/master/docs/REFERENCES.md)
+
+___
+
  ## License 📃
 
  [MIT License](https://github.com/lucasheverton/Calculator/blob/master/LICENSE)
