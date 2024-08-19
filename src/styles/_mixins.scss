@@ -1,0 +1,32 @@
+/*Media query laptop*/
+// Use Example:
+// @include laptop {
+//   color: green;
+// }
+@mixin laptop {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
+
+/*Media query tablet*/
+// Use Example:
+// @include tablet {
+//   color: green;
+// }
+@mixin tablet {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+/*Media query mobile*/
+// Use Example:
+// @include mobile {
+//   color: aqua;
+// }
+@mixin mobile {
+  @media (max-width: 425px){
+    @content;
+  }
+}
