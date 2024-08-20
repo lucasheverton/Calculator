@@ -72,17 +72,17 @@ ___
 
 ## Padrões ✔️
 
-[Patterns](https://github.com/lucasheverton/Calculator/blob/master/docs/PATTERNS.md)
+[Patterns](https://github.com/lucasheverton/calculator/blob/master/docs/PATTERNS.md)
 
 ___
 
 ## Referências 📝
 
-[References](https://github.com/lucasheverton/Calculator/blob/master/docs/REFERENCES.md)
+[References](https://github.com/lucasheverton/calculator/blob/master/docs/REFERENCES.md)
 
 ___
 
  ## License 📃
 
- [MIT License](https://github.com/lucasheverton/Calculator/blob/master/LICENSE)
+ [MIT License](https://github.com/lucasheverton/calculator/blob/master/LICENSE)
  
