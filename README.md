@@ -26,13 +26,13 @@ Para configurar o ambiente localmente, siga os passos abaixo:
 Clone o repositório:
 
 ```
-git clone https://github.com/lucasheverton/simple-calculator.git
+git clone https://github.com/lucasheverton/calculator.git
 ```
 
 Navegue até a pasta do projeto:
 
 ```
-cd simple-calculator
+cd calculator
 ```
 
 ___
