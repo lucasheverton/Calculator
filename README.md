@@ -26,13 +26,13 @@ Para configurar o ambiente localmente, siga os passos abaixo:
 Clone o repositório:
 
 ```
-git clone https://github.com/lucasheverton/calculator.git
+$    git clone https://github.com/lucasheverton/calculator.git
 ```
 
 Navegue até a pasta do projeto:
 
 ```
-cd calculator
+$    cd calculator
 ```
 
 ___
@@ -42,25 +42,25 @@ ___
 *->* Para instalar os pacotes e dependências do projeto:
 
 ```
-yarn
+$    yarn
 ```
 
 *->* Para iniciar o servidor de desenvolvimento, execute:
 
 ```
-yarn dev
+$    yarn dev
 ```
 
 Caso queira empacotar e comprir o projeto e fazer deploy:
 
 ```
-yarn build
+$    yarn build
 ```
 
 *->* Para rodar o eslint:
 
 ```
-yarn lint
+$    yarn lint
 ```
 
 *->* Acesse a aplicação em seu navegador:
