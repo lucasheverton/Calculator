@@ -2,6 +2,7 @@
 ___ 
 
 1. Arrumar o cálculo final quando é feita uma expressão ex: 9 + 2 + 3 ...
+2. Permitir que um número decimal seja calculado ex: 0.2 + 2 ...
 
 ___
 
