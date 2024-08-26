@@ -1,12 +1,8 @@
 <template>
   <section class="container">
-    <h1>COMO FUNCIONA?</h1>
+    <h1>{{ $t('how.works.title') }}</h1>
     <p class="paragraph">
-      As operações matemáticas básicas de uma calculadora são realizadas por
-      algoritmos implementados no software. Ao pressionar os botões de adição,
-      subtração, multiplicação ou divisão, a calculadora processa os números
-      inseridos e executa a operação correspondente, exibindo o
-      resultado no visor.
+      {{ $t('how.works.paragraph') }}
     </p>
 
     <MyCalculator></MyCalculator>

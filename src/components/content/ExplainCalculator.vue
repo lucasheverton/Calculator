@@ -7,9 +7,7 @@
         title="Calculadora"
       />
       <p class="paragraph">
-        Uma calculadora de computador opera por meio de software que processa os
-        números e operações inseridos, realizando cálculos e
-        mostrando os resultados na tela.
+        {{ $t('explain.calculator') }}
       </p>
     </div>
   </section>

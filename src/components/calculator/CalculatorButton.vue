@@ -45,7 +45,7 @@ export default {
     }),
 
     invalidFirstKey() {
-      return !this.getExpressionLegth && (this.typeDigit !== 'number' || this.text === '0')
+      return !this.getExpressionLegth && (this.typeDigit !== 'number')
     },
 
     maxNumberDigits() {
@@ -54,6 +54,10 @@ export default {
 
     alreadyPoint() {
       return this.getExpression.includes('.') && this.text === '.'
+    },
+
+    alreadyZero() {
+      return this.getExpression.includes('0') && this.text === '0'
     },
 
     calculateResult() {
@@ -89,6 +93,8 @@ export default {
       if (this.maxNumberDigits) return
 
       if (this.alreadyPoint) return
+
+      if (this.alreadyZero) return
 
       if (this.handleWhenThereIsAlreadyResult) return
 

@@ -14,12 +14,6 @@ import {  mapGetters } from 'vuex'
 export default {
   name: 'CalculatorResult',
 
-  data() {
-    return {
-      initialValue: '0'
-    }
-  },
-
   computed: {
     ...mapGetters({
       getExpression: 'calculate/getExpression',
@@ -46,7 +40,7 @@ export default {
     },
 
     showValue() {
-      return this.getExpression || this.initialValue
+      return this.getExpression
     }
   }
 }

@@ -1,7 +1,7 @@
 <template>
   <footer>
     <span> R </span>
-    <p>TODOS OS DIREITOS REVERVADOS</p>
+    <p>{{ $t('footer.rights') }}</p>
   </footer>
 </template>
 
