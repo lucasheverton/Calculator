@@ -66,7 +66,7 @@ $    yarn lint
 *->* Acesse a aplicação em seu navegador:
 
 ```
-http://localhost:8080
+http://localhost:8081
 ```
 ___
 
