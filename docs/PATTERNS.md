@@ -12,6 +12,8 @@ ___
 
 5. Os arquivos de enum/constants devem ser escritos no padrão ***kebab-case***
 
-6. Caso seja necessário adicionar enums, eles devem ser escritos no padrão ***CREAMING_SNAKE_CASE***
+6. Os arquivos e variavéis de locales e configurações que se referem ao idioma devem ser criadas no padrão ***snake_case***
 
-7. Os arquivos das docs também devem ser escritos no padrão ***CREAMING_SNAKE_CASE***
+7. Caso seja necessário adicionar enums, eles devem ser escritos no padrão ***CREAMING_SNAKE_CASE***
+
+8. Os arquivos das docs também devem ser escritos no padrão ***CREAMING_SNAKE_CASE***
